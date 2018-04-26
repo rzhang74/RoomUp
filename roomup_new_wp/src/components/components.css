@@ -1,0 +1,107 @@
+.searchComp {
+    color: skyblue;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+}
+
+.menustyle{
+        height: 60px;
+    }
+
+.chatFrame{
+	top:300px;
+}
+
+.chatHeader{
+	top:250px;
+}
+
+
+.modal{
+        margin:0 auto;
+        display:table;
+        position: absolute;
+        left: 0;
+        right:0;
+        top: 50%; 
+        border:1px solid;
+        -webkit-transform:translateY(-50%);
+        -moz-transform:translateY(-50%);
+        -ms-transform:translateY(-50%);
+        -o-transform:translateY(-50%);
+        transform:translateY(-50%);
+    }
+
+
+ .borderlessbutton{
+    outline: none 
+ }
+
+.searchInput{
+	width:auto;
+}
+
+.result_display{
+    width: 100%;
+	padding-top:10%;
+	color:black;
+}
+
+.user_column1{
+    float: left;
+    width: 23%;
+}
+.user_column2{
+    float: left;
+    width: 43%;
+    color: black;
+}
+.user_column3{
+    float: right;
+    width: 33%;
+}
+
+.apt_column1{
+    float: left;
+    width: 20%;
+}
+.apt_column2{
+    float: left;
+    width: 80%;
+    color: black;
+}
+
+/* Clear floats after the columns */
+.entry_row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.filter_field{
+    position: relative;
+    padding-top:5%;
+}
+
+
+.workspace_resultColumn {
+    float: left;
+    width: 50%;
+}
+
+.workspace_mapColumn {
+    float: left;
+    width: 50%;
+    padding-top: 5%;
+    padding-right: 2%
+}
+
+/* Clear floats after the columns */
+.workspace_row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
