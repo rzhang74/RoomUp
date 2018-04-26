@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'roomie.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'WeRoomie3',
+        'NAME': 'WeRoomie',
         'USER': 'root',
         'PASSWORD': ''
     }
