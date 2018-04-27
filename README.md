@@ -23,4 +23,22 @@ The website supports creating user, updating user to advance user with providenc
 <img src="demo_images/create_group.png">
 
 
+<img src="demo_images/group_info.png">
+
+
+<img src="demo_images/further_info.png">
+
+
+<img src="demo_images/search.png">
+
+
+<img src="demo_images/map.png">
+
+
+<img src="demo_images/map_result.png">
+
+
+<img src="demo_images/chat_room.png">
+
+
 The part where I am responsible for are backend api of group related operation, including building the chat room.
